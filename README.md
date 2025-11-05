@@ -1,8 +1,8 @@
-# Interstellar V6
+# Interstellar V6(.1)
+cool proxy for school
 
-This is an unstable version of the Interstellar project, completely rewritten from the ground up.
 
-# Deployment
+## Deployment
 
 To deploy Interstellar on your server, follow these steps:
 
@@ -25,7 +25,7 @@ pnpm install && pnpm start
 
 This will install all the necessary dependencies and start the application in production mode.
 
-# Development
+## Development
 
 If you are developing for Interstellar , use the following commands:
 
